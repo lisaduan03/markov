@@ -1,0 +1,3 @@
+# simulating Markov Chain and calculating its stationary distribution
+# stationary distribution = fraction of time that the system spends in each
+# state as the number of samples approaches infinity. 
